@@ -63,11 +63,3 @@ export default function Weather() {
     );
   }
 }
-<a
-  className="App-link"
-  href="https://github.com/marinamorcos92/react-app"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  Open Source code
-</a>;

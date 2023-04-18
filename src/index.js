@@ -9,6 +9,16 @@ root.render(
   <React.StrictMode>
     <h1>Weather App React </h1>
     <Weather />
+    <br />
+    <a
+      className="App-link"
+      href="https://github.com/marinamorcos92/react-app"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Open Source code
+    </a>{" "}
+    coded by Marina Morcos ;
   </React.StrictMode>
 );
 
